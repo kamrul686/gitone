@@ -1,1 +1,2 @@
-this is from bug 1
+this is from bug2
+this is form bug1
